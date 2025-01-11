@@ -1,7 +1,11 @@
+## 
 ## CONTACT
 <a href="https://blog.naver.com/eggzuxi99" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/eggzuxi99@gmail.com-EA4335?style=flat&logo=gmail&logoColor=ffffff"/>
 <br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eggzuxi&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true width=38% />
+</a> 
 ![Juhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggzuxi&show_icons=true&theme=vue&count_private=true)
 
 <!--
