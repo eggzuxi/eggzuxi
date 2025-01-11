@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/eggzuxi99@gmail.com-EA4335?style=flat&logo=gmail&logoColor=ffffff"/>
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eggzuxi&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-![Juhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggzuxi&show_icons=true&theme=vue&count_private=true)
+![Juhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggzuxi&show_icons=true&theme=vue&count_private=true&include_all_commits=true)
 
 <!--
 **eggzuxi/eggzuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
