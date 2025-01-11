@@ -1,3 +1,4 @@
+<a href="https://blog.naver.com/eggzuxi99" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=#03C75A"/></a>
 ![Juhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggzuxi&show_icons=true&theme=vue)
 
 <!--
