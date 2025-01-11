@@ -2,7 +2,7 @@
 
 <details>
   <summary>About Me</summary>
-  <div padding-top="5px">
+  <div>
     <a href="https://blog.naver.com/eggzuxi99" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=ffffff"/></a>
     <img src="https://img.shields.io/badge/eggzuxi99@gmail.com-EA4335?style=flat&logo=gmail&logoColor=ffffff"/>
   </div>
