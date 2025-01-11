@@ -1,10 +1,13 @@
 ![Duck Walking](duck.png "A duck walking")
 
-
-## CONTACT
-<a href="https://blog.naver.com/eggzuxi99" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=ffffff"/></a>
-<img src="https://img.shields.io/badge/eggzuxi99@gmail.com-EA4335?style=flat&logo=gmail&logoColor=ffffff"/>
+<details>
+  <summary><img src="https://img.shields.io/badge/About%20Me-Click%20Here-blue" alt="About Me"></summary>
+  ### About Me
+  <a href="https://blog.naver.com/eggzuxi99" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=naver&logoColor=ffffff"/></a>
+  <img src="https://img.shields.io/badge/eggzuxi99@gmail.com-EA4335?style=flat&logo=gmail&logoColor=ffffff"/>
+</details>
 <br />
+
 ![Juhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggzuxi&show_icons=true&theme=vue&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eggzuxi&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
