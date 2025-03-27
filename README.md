@@ -1,4 +1,5 @@
 ![Duck Walking](duck.png "A duck walking")
+![Duck's Journey](journey.png "roadmap")
 
 ![Juhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggzuxi&show_icons=true&theme=transparent&count_private=true&card_width=300&line_height=20&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eggzuxi&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
