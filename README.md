@@ -1,6 +1,6 @@
 ![Duck Walking](duck.png "A duck walking")
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=eggzuxi&show_icons=true&theme=transparent&count_private=true&card_width=300&line_height=20&hide_rank=true"/>
