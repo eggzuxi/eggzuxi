@@ -1,7 +1,8 @@
 ![Banner](banner.png "Banner")
-![Juhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggzuxi&show_icons=true&theme=transparent&count_private=true&card_width=300&line_height=20&hide_rank=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eggzuxi&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 ![Duck's Journey](roadmap.png "A duck walking")
+![Juhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggzuxi&show_icons=true&theme=default&count_private=true&card_width=300&line_height=20&hide_rank=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eggzuxi&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **eggzuxi/eggzuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
