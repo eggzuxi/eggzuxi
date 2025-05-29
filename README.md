@@ -1,29 +1,31 @@
 ![Banner](banner.png "Banner")
 ![Roadmap](roadmap.png "Roadmap")
 ![](./profile-3d-contrib/profile-green-animate.svg)
-<div style="display: flex; gap: 1rem;">
-<details style="padding-right: 4px"> 
-    <summary>&nbsp;RESUME</summary>
-
-[🔗&nbsp;The duck continues walk to forward](https://drive.google.com/file/d/1JLWZKy2hs1ldckMiTm03B5ANwZIxyYCP/view?usp=drive_link)
-
-</details>
-
-<details style="padding-right: 5px"> 
-    <summary>&nbsp;PORTFOLIO</summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preparing...
-
-</details>
-
-<details> 
-    <summary>&nbsp;BLOG</summary>
-
-[🔗&nbsp;Happy cheese smile](https://blog.naver.com/eggzuxi99)  ⏩⏩⏩ [🔗&nbsp;Quack Quack](https://eggzuxi.github.io/)
-
-</details>
-
-</div>
+<table>
+  <tr>
+    <td style="border: none; padding-right: 16px; vertical-align: top;">
+      <details>
+        <summary>&nbsp;RESUME</summary>
+        <a href="https://drive.google.com/file/d/1JLWZKy2hs1ldckMiTm03B5ANwZIxyYCP/view?usp=drive_link">
+          🔗&nbsp;The duck continues walk to forward
+        </a>
+      </details>
+    </td>
+    <td style="border: none; padding-right: 16px; vertical-align: top;">
+      <details>
+        <summary>&nbsp;PORTFOLIO</summary>
+        Preparing...
+      </details>
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <details>
+        <summary>&nbsp;BLOG</summary>
+        <a href="https://blog.naver.com/eggzuxi99">🔗&nbsp;Happy cheese smile</a> ⏩⏩ 
+        <a href="https://eggzuxi.github.io/">🔗&nbsp;Quack Quack</a>
+      </details>
+    </td>
+  </tr>
+</table>
 
 <!--
 **eggzuxi/eggzuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
