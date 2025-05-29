@@ -1,9 +1,11 @@
 ![Banner](banner.png "Banner")
 ![Roadmap](roadmap.png "Roadmap")
 ![](./profile-3d-contrib/profile-green-animate.svg)
->🔗 [RESUME](https://drive.google.com/file/d/1JLWZKy2hs1ldckMiTm03B5ANwZIxyYCP/view?usp=drive_link)  
->🔧 PORTFOLIO: *Preparing...*  
-> 📝 [BLOG](https://blog.naver.com/eggzuxi99) ⏩⏩ [Quack Quack](https://eggzuxi.github.io/)
+<p align="center">
+  <b>📄 <a href="https://drive.google.com/file/d/1JLWZKy2hs1ldckMiTm03B5ANwZIxyYCP/view?usp=drive_link">RESUME</a></b> &nbsp;|&nbsp;
+  <b>📁 PORTFOLIO</b>: <i>Preparing...</i> &nbsp;|&nbsp;
+  <b>📚 BLOG</b>: <a href="https://blog.naver.com/eggzuxi99">Happy cheese smile</a> ⏩ <a href="https://eggzuxi.github.io/">Quack Quack</a>
+</p>
 
 <!--
 **eggzuxi/eggzuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
