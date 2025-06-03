@@ -2,7 +2,7 @@
 ![Roadmap](roadmap.png "Roadmap")
 <p align="center">
   <b>📄 <a href="https://drive.google.com/file/d/1swndBkoOHfh9_K-VgEhJeepClC6tHQap/view?usp=sharing">RESUME</a></b> &nbsp;|&nbsp;
-  <b>📁 PORTFOLIO</b>: <i>Preparing...</i> &nbsp;|&nbsp;
+  <b>📁 <a href="https://drive.google.com/file/d/1qwxsANx3WCl6DuRiuZjL5LloDTmkOIwH/view?usp=sharing">PORTFOLIO</a></b> &nbsp;|&nbsp;
   <b>📚 BLOG</b>: <a href="https://blog.naver.com/eggzuxi99">Happy cheese smile</a> ⏩ <a href="https://eggzuxi.github.io/">Quack Quack</a>
 </p>
 
