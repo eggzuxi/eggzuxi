@@ -20,5 +20,5 @@ jobs:
           git config user.name eggzuxi
           git config user.email eggzuxi99@gmail.com
           git add -A .
-          git commit -m "generated"
+          git commit -m ":recycle: update: 3D 잔디 그래프 동기화"
           git push
