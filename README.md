@@ -1,28 +1,83 @@
-![Banner](banner.png "Banner")
-![Roadmap](roadmap.png "Roadmap")
-<p align="center">
-  <b>📄 <a href="https://drive.google.com/file/d/18S5JTqT6YDJhd3VJTkgIik_CJW2Xa2Bu/view?usp=sharing">RESUME</a></b> &nbsp;|&nbsp;
-  <b>📁 <a href="https://drive.google.com/file/d/1qwxsANx3WCl6DuRiuZjL5LloDTmkOIwH/view?usp=sharing">PORTFOLIO</a></b> &nbsp;|&nbsp;
-  <b>📚 BLOG</b>: <a href="https://blog.naver.com/eggzuxi99">Happy cheese smile</a> ⏩ <a href="https://eggzuxi.github.io/">Quack Quack</a>
-</p>
+# 🦆 Juhui Park - Backend Developer
+
+**오리처럼 앞으로 나아가는 개발자, 박주희입니다.**  
+협업과 실행 중심의 프로젝트 경험을 바탕으로, 성장의 방향을 기술로 증명합니다.
 
 ---
 
-### 🦆 About Me
-
-작은 오리발이 물밑에서 누구보다 바쁘게 움직이듯,  
-직접 부딪히며 해결해가는 과정을 통해 성장하는 실전형 백엔드 개발자입니다.
+## 📌 About Me
+- `Java`, `Spring Boot`, `Typescript`, `React`를 활용한 웹 프로젝트 경험
+- **GitHub Actions**, **Docker** 기반의 CI/CD 구축 경험
+- 기술 블로그 운영을 통해 학습한 내용을 정리하고 공유합니다.
+- 협업과 피드백을 바탕으로 함께 성장하는 개발자가 되고자 합니다.
 
 ---
 
-### 💻 Tech Stack
+## 🧰 Tech Stack
 
-**Language**: Java, TypeScript  
-**Framework**: Spring Boot, React, Next.js  
-**Database**: MariaDB, MongoDB  
-**DevOps & Tools**: IntelliJ, Docker, GitHub Actions, Postman, Figma
+**Languages & Frameworks**  
+`Java`, `Typescript`, `Spring Boot`, `React`, `Next.js`, `Vue`
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+**Databases**  
+`MariaDB`, `MongoDB`
+
+**Tools & DevOps**  
+`GitHub`, `GitHub Actions`, `Docker`, `IntelliJ`, `Figma`
+
+**Certifications**  
+- SQLD (2023.10)
+- 컴퓨터활용능력 1급 (2023.03)
+
+---
+
+## 🛠️ Projects
+
+### 🐾 [Tailtales](https://github.com/Tail-tales) `24.04 ~ 진행 중`
+특수동물 반려인을 위한 커뮤니티 플랫폼  
+**🔧 Stack:** Spring Boot, Vue, Typescript, MariaDB, Docker  
+**📌 주요 기여:**
+- JWT 기반 인증/인가 구현
+- WebClient를 활용한 서버 간 통신
+- CI/CD 자동 배포 구축
+
+---
+
+### 🎧 [Seenhub](https://github.com/eggzuxi/SeenhubClient) `25.01 ~ 진행 중`
+개인의 취향(음악, 도서, 영화 등)을 수집하는 웹 서비스  
+**🔧 Stack:** Next.js, Typescript, MongoDB, Vercel  
+**📌 주요 기여:**
+- 외부 API 연동 (도서, 영화, 음악)
+- 클라이언트/서버 컴포넌트 분리
+- PWA 적용
+
+---
+
+### 🧳 [Tripwhiz](https://github.com/Tripwhiz) `24.10 ~ 24.12`
+해외여행자를 위한 픽업 편의점 플랫폼  
+**🔧 Stack:** Spring Boot, React, Typescript, AWS, MariaDB  
+**📌 주요 기여:**
+- 상품-주문 기능 및 RestTemplate 서버 간 통신 구현
+- 지점 크롤링(Jsoup), 관리자 화면 개발
+- Docker 기반 CI/CD 구축
+
+---
+
+## 🗂 Portfolio & Resume
+
+- [📄 Resume](https://drive.google.com/file/d/18S5JTqT6YDJhd3VJTkgIik_CJW2Xa2Bu/view?usp=drive_link)
+- [🗂 Portfolio](https://drive.google.com/file/d/1Rwt-kRLT1vXnrVxicIIJwdPFb8yHoJlj/view?usp=drive_link)
+
+---
+
+## 🖊 Blog
+🧠 기술 학습 및 프로젝트 회고 정리  
+- [📘 Naver Blog(이전 중)](https://blog.naver.com/eggzuxi99) 
+- [📗 Github Blog](https://eggzuxi.github.io/)
+
+---
+
+## ☎️ Contact  
+📧 eggzuxi99@gmail.com
 
 <!--
 **eggzuxi/eggzuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
