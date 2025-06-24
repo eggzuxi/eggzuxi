@@ -14,7 +14,10 @@
 ## 🧰 Tech Stack
 
 **Languages & Frameworks**  
-`Java`, `Typescript`, `Spring Boot`, `React`, `Next.js`, `Vue`
+`Spring Boot`, `React`, `Next.js`
+
+**Library & Framework**  
+`Spring Boot`, `React`, `Next.js`
 
 **Databases**  
 `MariaDB`, `MongoDB`
@@ -30,8 +33,8 @@
 
 ## 🛠️ Projects
 
-### 🐾 [Tailtales](https://github.com/Tail-tales) `24.04 ~ 진행 중`
-특수동물 반려인을 위한 커뮤니티 플랫폼  
+### 🐾 [Tailtales](https://github.com/Tail-tales) 
+특수동물 반려인을 위한 커뮤니티 플랫폼 `24.04 ~ 진행 중`  
 **🔧 Stack:** Spring Boot, Vue, Typescript, MariaDB, Docker  
 **📌 주요 기여:**
 - JWT 기반 인증/인가 구현
@@ -40,8 +43,8 @@
 
 ---
 
-### 🎧 [Seenhub](https://github.com/eggzuxi/SeenhubClient) `25.01 ~ 진행 중`
-개인의 취향(음악, 도서, 영화 등)을 수집하는 웹 서비스  
+### 🎧 [Seenhub](https://github.com/eggzuxi/SeenhubClient) 
+개인의 취향(음악, 도서, 영화 등)을 수집하는 웹 서비스 `25.01 ~ 진행 중`  
 **🔧 Stack:** Next.js, Typescript, MongoDB, Vercel  
 **📌 주요 기여:**
 - 외부 API 연동 (도서, 영화, 음악)
@@ -50,8 +53,8 @@
 
 ---
 
-### 🧳 [Tripwhiz](https://github.com/Tripwhiz) `24.10 ~ 24.12`
-해외여행자를 위한 픽업 편의점 플랫폼  
+### 🧳 [Tripwhiz](https://github.com/Tripwhiz) 
+해외여행자를 위한 픽업 편의점 플랫폼 `24.10 ~ 24.12`  
 **🔧 Stack:** Spring Boot, React, Typescript, AWS, MariaDB  
 **📌 주요 기여:**
 - 상품-주문 기능 및 RestTemplate 서버 간 통신 구현
@@ -69,7 +72,7 @@
 
 ## 🖊 Blog
 🧠 기술 학습 및 프로젝트 회고 정리  
-- [📘 Naver Blog(이전 중)](https://blog.naver.com/eggzuxi99) 
+- [📘 Naver Blog (이전 중)](https://blog.naver.com/eggzuxi99) 
 - [📗 Github Blog](https://eggzuxi.github.io/)
 
 ---
