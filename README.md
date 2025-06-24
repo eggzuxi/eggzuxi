@@ -65,7 +65,7 @@
 
 ## 🗂 Portfolio & Resume
 
-- [📄 Resume](https://drive.google.com/file/d/18S5JTqT6YDJhd3VJTkgIik_CJW2Xa2Bu/view?usp=drive_link)
+- [📄 Resume](https://drive.google.com/file/d/1kMLGJR9WewaWqjRnIW8-fCUEQ_UJl90Y/view?usp=sharing)
 - [🗂 Portfolio](https://drive.google.com/file/d/1Rwt-kRLT1vXnrVxicIIJwdPFb8yHoJlj/view?usp=drive_link)
 
 ---
