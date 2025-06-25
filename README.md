@@ -13,8 +13,8 @@
 
 ## 🧰 Tech Stack
 
-**Languages & Frameworks**  
-`Spring Boot`, `React`, `Next.js`
+**Languages**  
+`Java`, `Typescript`
 
 **Library & Framework**  
 `Spring Boot`, `React`, `Next.js`
@@ -23,7 +23,7 @@
 `MariaDB`, `MongoDB`
 
 **Tools & DevOps**  
-`GitHub`, `GitHub Actions`, `Docker`, `IntelliJ`, `Figma`
+`GitHub`, `GitHub Actions`, `Docker`, `IntelliJ`
 
 **Certifications**  
 - SQLD (2023.10)
