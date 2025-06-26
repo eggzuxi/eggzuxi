@@ -62,14 +62,14 @@
 - Docker 기반 CI/CD 구축
 
 ---
-
+<!--
 ## 🗂 Portfolio & Resume
 
 - [📄 Resume](https://drive.google.com/file/d/1kMLGJR9WewaWqjRnIW8-fCUEQ_UJl90Y/view?usp=sharing)
 - [🗂 Portfolio](https://drive.google.com/file/d/1Rwt-kRLT1vXnrVxicIIJwdPFb8yHoJlj/view?usp=drive_link)
 
 ---
-
+-->
 ## 🖊 Blog
 🧠 기술 학습 및 프로젝트 회고 정리  
 - [📘 Naver Blog (이전 중)](https://blog.naver.com/eggzuxi99) 
