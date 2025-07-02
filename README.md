@@ -5,7 +5,7 @@
 
 ## 📌 About Me
 - `Java`, `Spring Boot`, `Typescript`, `React`를 활용한 웹 프로젝트 경험
-- **GitHub Actions**, **Docker** 기반의 CI/CD 구축 경험
+- `GitHub Actions`, `Docker` 기반의 CI/CD 구축 경험
 - 기술 블로그 운영을 통해 학습한 내용을 정리하고 공유합니다.
 - 협업과 피드백을 바탕으로 함께 성장하는 개발자가 되고자 합니다.
 
@@ -13,16 +13,16 @@
 
 ## 🧰 Tech Stack
 
-**Languages**  
+**Language**  
 `Java`, `Typescript`
 
 **Library & Framework**  
 `Spring Boot`, `React`, `Next.js`
 
-**Databases**  
+**Database**  
 `MariaDB`, `MongoDB`
 
-**Tools & DevOps**  
+**Tool & DevOps**  
 `GitHub`, `GitHub Actions`, `Docker`, `IntelliJ`
 
 **Certifications**  
@@ -62,14 +62,7 @@
 - Docker 기반 CI/CD 구축
 
 ---
-<!--
-## 🗂 Portfolio & Resume
 
-- [📄 Resume](https://drive.google.com/file/d/1kMLGJR9WewaWqjRnIW8-fCUEQ_UJl90Y/view?usp=sharing)
-- [🗂 Portfolio](https://drive.google.com/file/d/1Rwt-kRLT1vXnrVxicIIJwdPFb8yHoJlj/view?usp=drive_link)
-
----
--->
 ## 🖊 Blog
 🧠 기술 학습 및 프로젝트 회고 정리  
 - [📘 Naver Blog (이전 중)](https://blog.naver.com/eggzuxi99) 
