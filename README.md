@@ -34,7 +34,7 @@
 ## 🛠️ Projects
 
 ### 🐾 [Tailtales](https://github.com/Tail-tales) 
-특수동물 반려인을 위한 커뮤니티 플랫폼 `24.04 ~ 진행 중`  
+특수동물 반려인을 위한 커뮤니티 플랫폼 `25.04 ~ 진행 중`  
 **🔧 Stack:** Spring Boot, Vue, Typescript, MariaDB, Docker  
 **📌 주요 기여:**
 - JWT 기반 인증/인가 구현
@@ -57,7 +57,7 @@
 해외여행자를 위한 픽업 편의점 플랫폼 `24.10 ~ 24.12`  
 **🔧 Stack:** Spring Boot, React, Typescript, AWS, MariaDB  
 **📌 주요 기여:**
-- 상품-주문 기능 및 RestTemplate 서버 간 통신 구현
+- 상품, 장바구니, 주문 기능 및 RestTemplate 서버 간 통신 구현
 - 지점 크롤링(Jsoup), 관리자 화면 개발
 - Docker 기반 CI/CD 구축
 
