@@ -25,7 +25,9 @@
 **Tool & DevOps**  
 `GitHub`, `GitHub Actions`, `Docker`, `IntelliJ`
 
-**Certifications**  
+---
+
+## 🏆 Certifications  
 - SQLD (2023.10)
 - 컴퓨터활용능력 1급 (2023.03)
 
