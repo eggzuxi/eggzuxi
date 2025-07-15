@@ -11,7 +11,7 @@
 
 ---
 
-## 🩶 Ranking
+## 🏅 Ranking
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eggzuxi99)](https://solved.ac/eggzuxi99)
 
 ---
