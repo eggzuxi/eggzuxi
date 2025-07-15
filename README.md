@@ -7,7 +7,12 @@
 - `Java`, `Spring Boot`, `Typescript`, `React`를 활용한 웹 프로젝트 경험
 - `GitHub Actions`, `Docker` 기반의 CI/CD 구축 경험
 - 기술 블로그 운영을 통해 학습한 내용을 정리하고 공유합니다.
-- 코딩컨벤션과 커밋 양식을 철저히 지키며 개발합니다.
+- 코딩컨벤션과 커밋 양식을 지키며 개발합니다.
+
+---
+
+## 🩶 Ranking
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eggzuxi99)](https://solved.ac/eggzuxi99)
 
 ---
 
@@ -33,7 +38,7 @@
 
 ---
 
-## 🛖 Projects
+<!-- ## 🛖 Projects
 
 ### 🐾 [Tailtales](https://github.com/Tail-tales) 
 특수동물 반려인을 위한 커뮤니티 플랫폼 `25.04 ~ 진행 중`  
@@ -64,6 +69,7 @@
 - Docker 기반 CI/CD 구축
 
 ---
+-->
 
 ## 🖊 Blog
 🧠 기술 학습 및 프로젝트 회고 정리  
