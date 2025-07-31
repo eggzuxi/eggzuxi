@@ -1,5 +1,5 @@
-**🦆 오리처럼 앞으로 나아가는 개발자 박주희입니다.**  
-협업과 실행 중심의 프로젝트 경험을 바탕으로, 성장의 방향을 기술로 증명합니다.
+**🏃‍♀️‍➡️🏃‍♂️‍➡️🏃‍➡️완벽하지 않아도 되니까, 실행부터 누릅니다.**  
+복잡한 절차보다 빠르게 개발하고 점진적으로 개선하는 방식을 선호합니다.
 
 ---
 
@@ -19,7 +19,7 @@
 ## ⛏️ Tech Stack
 
 **Language**  
-`Java`, `Typescript`
+`Java`, `Typescript`, `Python`
 
 **Library & Framework**  
 `Spring Boot`, `React`, `Next.js`
@@ -28,7 +28,7 @@
 `MariaDB`, `MongoDB`
 
 **Tool & DevOps**  
-`GitHub`, `GitHub Actions`, `Docker`, `IntelliJ`
+`GitHub`, `GitHub Actions`, `Docker`, `Postman`, `IntelliJ`
 
 ---
 
@@ -73,8 +73,8 @@
 
 ## 🖊 Blog
 🧠 기술 학습 및 프로젝트 회고 정리  
-- [📘 Naver Blog (이전 중)](https://blog.naver.com/eggzuxi99) 
 - [📗 Github Blog](https://eggzuxi.github.io/)
+- [📘 Naver Blog](https://blog.naver.com/eggzuxi99) 
 
 ---
 
