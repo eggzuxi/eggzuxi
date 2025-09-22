@@ -1,8 +1,8 @@
 #### 🖊 Blog
-[📗 Github Blog](https://eggzuxi.github.io/)
+[Github Blog](https://eggzuxi.github.io/)
 
 #### ☎️ Contact  
-📧 eggzuxi99@gmail.com
+eggzuxi99@gmail.com
 
 <!--
 **eggzuxi/eggzuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
