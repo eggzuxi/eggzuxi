@@ -1,9 +1,7 @@
-## 🖊 Blog
+#### 🖊 Blog
 [📗 Github Blog](https://eggzuxi.github.io/)
 
----
-
-## ☎️ Contact  
+#### ☎️ Contact  
 📧 eggzuxi99@gmail.com
 
 <!--
